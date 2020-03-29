@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geo1997/MovieFinderJS/static/css/main.f12f18da.chunk.css",
+    "main.js": "/geo1997/MovieFinderJS/static/js/main.9adcdd4e.chunk.js",
+    "main.js.map": "/geo1997/MovieFinderJS/static/js/main.9adcdd4e.chunk.js.map",
+    "runtime-main.js": "/geo1997/MovieFinderJS/static/js/runtime-main.e250f114.js",
+    "runtime-main.js.map": "/geo1997/MovieFinderJS/static/js/runtime-main.e250f114.js.map",
+    "static/js/2.8695a630.chunk.js": "/geo1997/MovieFinderJS/static/js/2.8695a630.chunk.js",
+    "static/js/2.8695a630.chunk.js.map": "/geo1997/MovieFinderJS/static/js/2.8695a630.chunk.js.map",
+    "index.html": "/geo1997/MovieFinderJS/index.html",
+    "precache-manifest.165bb9488335bc495f3915b29628ea78.js": "/geo1997/MovieFinderJS/precache-manifest.165bb9488335bc495f3915b29628ea78.js",
+    "service-worker.js": "/geo1997/MovieFinderJS/service-worker.js",
+    "static/css/main.f12f18da.chunk.css.map": "/geo1997/MovieFinderJS/static/css/main.f12f18da.chunk.css.map",
+    "static/js/2.8695a630.chunk.js.LICENSE.txt": "/geo1997/MovieFinderJS/static/js/2.8695a630.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e250f114.js",
+    "static/js/2.8695a630.chunk.js",
+    "static/css/main.f12f18da.chunk.css",
+    "static/js/main.9adcdd4e.chunk.js"
+  ]
+}
