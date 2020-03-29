@@ -5,7 +5,7 @@ import Movie from "./Movie";
 const MovieLists = (props) =>{
  return(
      <div className="container">
-         <div className="card -content grey lighten-4 -panel hoverable" >
+         <div className="card -content grey lighten-3 -panel hoverable" >
          <div className="row">
              <div className="col s12">
 
@@ -15,7 +15,7 @@ const MovieLists = (props) =>{
                             rel_date={props.movie.release_date}
                      pop={props.movie.popularity}/>
                 <td>
-                    <h2>
+                    <h2 >
                         {props.movie.title}
                     </h2>
 

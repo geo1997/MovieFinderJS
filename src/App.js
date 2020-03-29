@@ -13,7 +13,7 @@ class App extends React.Component {
         this.state={};
 
 
-        this.performSearch("avengers")
+        this.performSearch("")
 
     }
 

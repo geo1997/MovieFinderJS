@@ -31,11 +31,11 @@ class Movie extends React.Component {
                                 <img className="activator"
                                      src={'https://us.123rf.com/450wm/pavelstasevich/pavelstasevich1811/pavelstasevich181101065/112815953-stock-vector-no-image-available-icon-flat-vector.jpg?ver=6'}
                                      alt="card image"
-                                     style={{width: "100%", height: 300}}/>
+                                     style={{width: "100%", height: 200}}/>
                                 :
                                 <img className="activator" src={`http://image.tmdb.org/t/p/w185${this.props.image}`}
                                      alt="card image"
-                                     style={{width: "100%", height: 300}}/>
+                                     style={{width: "100%", height: 200}}/>
                         }
                     </div>
                     <div className="card-content">
